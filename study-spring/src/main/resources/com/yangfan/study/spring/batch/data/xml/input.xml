@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goodses>
+	<goods>
+		<isin>SN10001</isin>
+		<quantity>1000</quantity>
+		<price>200.20</price>
+		<customer>xiang</customer>
+	</goods>
+	<goods>
+		<isin>SN10002</isin>
+		<quantity>500</quantity>
+		<price>100</price>
+		<customer>xiang</customer>
+	</goods>
+</goodses>
