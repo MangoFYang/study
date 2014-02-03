@@ -14,6 +14,8 @@ public final class Client4Spring {
 
         String response = client.sayHi("Joe");
         System.out.println("Response: " + response);
+        
+        context.close();
         System.exit(0);
         
     }
